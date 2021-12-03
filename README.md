@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TheDoctorARG
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ... Full Stack
+- 👋 Hi, I’m @TheDoctorARG, vivo en Argentina, even so soy de Brasil.
+- 👀 I’m interested in ...Coding with Python, Java and all of that stuff
+- 🌱 I’m currently learning ... Full Stack? 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
